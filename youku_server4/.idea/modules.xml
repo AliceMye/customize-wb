@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D://youku_server4/../../youku4/.idea/youku4.iml" filepath="D://youku_server4/../../youku4/.idea/youku4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/youku_server4.iml" filepath="$PROJECT_DIR$/.idea/youku_server4.iml" />
+    </modules>
+  </component>
+</project>
